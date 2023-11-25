@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199261781178",
+    "project_id": "mca-mumbaiunivercity",
+    "storage_bucket": "mca-mumbaiunivercity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199261781178:android:265255efa74b5af164d683",
+        "android_client_info": {
+          "package_name": "com.coders.mca_mumbaiunivercity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199261781178-nbj4uaikid9659v4r98kgspkqhplgjn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyTgBNqzcm52ts_tbg3s44jA2A5u63V2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199261781178-nbj4uaikid9659v4r98kgspkqhplgjn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
